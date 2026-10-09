@@ -6,7 +6,7 @@ const LANGUAGES = {
   ar: { title: "العربية", text: "احصل عليه من Snap Store" },
   bg: { title: "български", text: "Инсталирайте го от Snap Store" },
   bn: { title: "বাংলা", text: "Snap Store থেকে ইনস্টল করুন" },
-  cn: { title: "中文（简体）", text: "从商店获取 Snap Store" },
+  cn: { title: "中文（简体）", text: "从商店下载 Snap Store" },
   de: { title: "Deutsch", text: "Installieren vom Snap Store" },
   en: { title: "English", text: "Get it from the Snap Store" },
   es: { title: "Español", text: "Instalar desde Snap Store" },

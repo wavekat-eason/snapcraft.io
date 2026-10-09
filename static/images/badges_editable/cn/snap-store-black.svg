@@ -50,7 +50,7 @@
 					d="M19,17.8V7.3l7.2,3.2L19,17.8z M5.2,31.6L14.1,15l3.9,3.9L5.2,31.6z M0.2,0.2l18.2,6.6v11.6     L0.2,0.2z" />
 				<polygon id="head" class="st2" points="29.9,6.8 19.4,6.8 32.9,12.9    " />
 			</g>
-			<text transform="translate(50,19)" class="st3 st4 st5" id="text12">从商店获取</text>
+			<text transform="translate(50,19)" class="st3 st4 st5" id="text12">从商店下载</text>
 			<text transform="matrix(1 0 0 1 50 41)" class="st3 st6 st7" id="text14">Snap Store</text>
 		</g>
 	</g>

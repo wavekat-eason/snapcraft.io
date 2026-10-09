@@ -48,7 +48,7 @@
 			<path id="body" class="st1"
 				d="M 19,17.8 V 7.3 l 7.2,3.2 z M 5.2,31.6 14.1,15 18,18.9 Z M 0.2,0.2 18.4,6.8 v 11.6 z" />
 			<polygon id="head" class="st2" points="29.9,6.8 19.4,6.8 32.9,12.9 " />
-		</g><text transform="translate(50,19)" class="st3 st4 st5" id="text12">从商店获取</text>
+		</g><text transform="translate(50,19)" class="st3 st4 st5" id="text12">从商店下载</text>
 		<text transform="matrix(1 0 0 1 50 41)" class="st3 st6 st7" id="text14">Snap Store</text>
 	</g>
 </svg>
